@@ -78,6 +78,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="D:\Downloads\Homework\Homework\cnn.cpp" />
+    <ClCompile Include="D:\Downloads\Homework\Homework\config.cpp" />
+    <ClCompile Include="D:\Downloads\Homework\Homework\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Downloads\Homework\Homework\cnn.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\config.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\bias_conv1.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\bias_conv2.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\bias_ip1.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\bias_ip2.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\label.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\test_set.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\weights_conv1.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\weights_conv2.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\weights_ip1.h" />
+    <ClInclude Include="D:\Downloads\Homework\Homework\data\weights_ip2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
